@@ -1,0 +1,15 @@
+table,th,td{
+    border:2px solid black;
+}
+
+h1{
+    color: brown;
+}
+#head1{
+    background-color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.imgs{
+    border-radius: 50%;
+}
